@@ -8,7 +8,7 @@
 * Dev team use git, maven, jenkins, confluence, jira
 * We are on the way to cloud
 
-## Last done tasks in project:
+## Last tasks done in project:
 * Performance testing automation: scheudle automatic nighly execution, regression check and automatic reporting
 * Migrating app java8->java11->java17
 * Migrating GC CMS->G1->Shenandoah
